@@ -2,7 +2,5 @@
 
 #### FYI:
 If you ever face any issue opening this notebook. Please do following to view its content:
-
 1. open "https://nbviewer.jupyter.org/"
-
 2. paste URL of the .ipynb in nbviewer search bar and press GO
