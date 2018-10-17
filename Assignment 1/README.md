@@ -1,1 +1,1 @@
-# mlcourse_ai
+# Exploratory data analysis of Olympic games with Pandas
